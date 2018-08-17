@@ -1,4 +1,3 @@
 export const hidden = [
-    "Test",
-    "atatata"
+    "Test"
 ]
